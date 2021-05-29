@@ -1,16 +1,16 @@
 # Inventory Management System
 
-⋅⋅⋅This system will allow businesses to manage their products and add decription, add product image, price etc
+This system will allow businesses to manage their products and add decription, add product image, price etc
 
 ## Subsystems
 
 ### User Management System
 
-⋅⋅⋅Allow user heirarchy to manage specific task on the system e.g add products confirm products, sales invoice
+Allow user heirarchy to manage specific task on the system e.g add products confirm products, sales invoice
 
 ### Sales Invoice System
 
-⋅⋅⋅Allows users to see reports on the sales and profits
+Allows users to see reports on the sales and profits
 
 ## Tech Stack
 
@@ -27,6 +27,7 @@
 -   AngularJS
 -   Bootstrap
 -   Typescript
+-   NG-ZORRO - Ant Design + Angular
 
 ### DevOps
 
